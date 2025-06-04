@@ -27,3 +27,8 @@ python, firebase, flutter
 ## 회로도
 
 ![image](https://github.com/user-attachments/assets/0d1dd341-fccd-4e29-8623-87ddcc76ed69)
+
+## UI
+
+![image](https://github.com/user-attachments/assets/efe3ebc7-a5b2-4890-a009-a589c36ce57e)
+
