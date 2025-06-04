@@ -6,8 +6,24 @@
  본 시스템은 지문, 얼굴 인식과 RFID 태그, 비밀번호 입력 등 복합 인증 수단을 통해 보안성을 대폭 향상시키며, 도난 및 이상 상황 감지, 원격 알림, 모바일 연동 기능을 추가하여 사용자가 언제 어디서나 안전하게 금고를 제어할 수 있도록 지원합니다. 또한, 터치스크린 기반의 직관적인 사용자 인터페이스와 서버 연동을 통한 데이터 관리 기능을 제공하여 개인용은 물론 기업 및 공유 공간 등 다양한 환경에서 활용 가능한 확장형 스마트 보안 솔루션을 목표로 합니다.
  본 프로젝트는 다중 생체인식 및 다양한 인증 방식을 결합하여 기존 금고의 보안 한계를 극복하고, 사용자 친화적인 스마트 금고 시스템을 구현함으로써 안전하고 편리한 자산 보호 환경을 제공하고자 합니다.
 
+## 기술스택:
+
+python, firebase, flutter 
+
 ## 시스템 구성:
  ![image](https://github.com/user-attachments/assets/08551265-67ef-4db6-a48e-f1760c482e22)
 
  
 ![image](https://github.com/user-attachments/assets/1843d079-be2a-4271-abfe-389788fa1476)
+
+## 모듈별 동작 원리
+
+![image](https://github.com/user-attachments/assets/b8fb0b3b-d17f-4e19-a3e2-5ee0408e267a)
+
+## 전체 시스템 설계
+
+![image](https://github.com/user-attachments/assets/42bcd0bc-496f-4f5d-8001-1bd6ad5c46b2)
+
+## 회로도
+
+![image](https://github.com/user-attachments/assets/0d1dd341-fccd-4e29-8623-87ddcc76ed69)
